@@ -1,2 +1,2 @@
 # IDC-BDA-Exercises
-Omer Example Project
+Omer Example Project - IDC
