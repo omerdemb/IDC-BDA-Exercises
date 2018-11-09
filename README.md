@@ -1,3 +1,3 @@
 # IDC-BDA-Exercises
 ## Omer Example Project - *IDC*
-before commit
+after commit
